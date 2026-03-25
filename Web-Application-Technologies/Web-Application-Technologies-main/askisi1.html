@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <!--Eναν πίνακα με την λίστα τριών φοιτητών.
+    Οι επικεφαλίδες του πίνακα θα πρέπει να είναι: Αριθμός Μητρώου, Όνομα,Εξάμηνο και Email.
+    Θα προσθέσετε τα ονόματα τριών φοιτητών.
+    Οι επικεφαλίδες θα πρέπει να εμφανίζονται σε πράσινο χρώμα.
+    To φόντο των γραμμών φοιτητών θα πρέπει να εναλλάσσεται μεταξύ άσπρου καιγαλάζιου (cyan).-->
+    <!--Πριν τον πίνακα προσθέστε μια φόρμα ή οποία όταν καλείται θα πρέπει νααναζητά το έγγραφο students στην ίδια περιοχή εγγράφων με το έγγραφο που δημιουργείται
+    Η φόρμα θα πρέπει να περιέχει δύο πεδία κειμένου με τίτλο ΑΜ και Επώνυμο και μια λίστα επιλογής (select) η οποία να έχει τις επιλογές 10 εξαμήνων.
+    Η φόρμα θα πρέπει να περιέχει και ένα κουμπί (submit) με όνομα sumbit καιτιμή Submit.-->>
+        <style>
+            th{color:green;}
+            .odd{background-color:white;}
+            .even{background-color:cyan;}
+        </style>
+    </head>
+    <body>
+           <form action="students">
+        AM: <input type="text" name="am">
+        ONOMA: <input type="text" name="onoma">
+        <select name="ejamino">
+            <option value="1">1</option>
+            <option value="2">2</option> 
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>   
+        </select>
+        <input type="submit" name="submit" value="Submit">
+    </form>
+
+    <table>
+        <tr>
+            <th>AM</th><th>ONOMA</th><th>ΕΞΑΜΗΝΟ</th><th>EMAIL</th>
+        </tr>
+        <tr class="odd">
+            <td>1234</td><td>MARY</td><td>7</td><td>mary1234@gmail.com</td>
+        </tr>
+        <tr class="even">
+            <td>2829</td><td>NICK</td><td>1</td><td>nick02829@yahoo.com</td>
+        </tr>
+        <tr class="odd">
+            <td>0230</td><td>GEORGIA</td><td>3</td><td>georgia0230@brave.com</td>
+        </tr>
+    </table>
+    </body>
+</html>

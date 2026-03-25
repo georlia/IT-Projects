@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <!--Στον ακόλουθο κώδικα προσθέστε το χειρισμό ενός συμβάντος onclick με χρήση του DOM, το οποίο να καλεί τη συνάρτηση displayDate().-->
+        <button id="myBtn">Try it</button>
+        <p id="demo"></p>
+        <script>
+          document.getElementById("myBtn").onclick = displayDate;
+          function displayDate() {
+             document.getElementById("demo").innerHTML = Date();
+            }
+        </script>
+    </body>
+</html>
