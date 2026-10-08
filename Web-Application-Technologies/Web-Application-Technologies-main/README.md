@@ -6,11 +6,6 @@
 
 ![Texnologies-Efarmogon-Diadiktuou](askisi1.png)
 
-ΑΣΚΗΣΗ 2: JAVASCRIPT
----
-Ένα αρχείο JavaScript με όνομα askisi2.js το οποίο να τοποθετεί στο συστατικό h2 του προηγούμενου εγγράφου το κείμενο ”Hello from Javascript” και να εμφανίζει το κείμενο της επικεφαλίδας h1 με πράσινο χρώμα σε κίτρινο φόντο. [askisi2.html](askisi2.html) , [askisi2.js](askisi2.js)
-
-![Texnologies-Efarmogon-Diadiktuou](askisi2.png)
 
 ΑΣΚΗΣΗ 3 ΕΡΩΤΗΜΑ 1: JAVASCRIPT
 ---
