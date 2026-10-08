@@ -1,5 +1,4 @@
-# 🔴🟢🔵RGB Guessing Game 🔴🟢🔵
----
+# 🌈 RGB Guessing Game
 Αυτή η εφαρμογή αποτελεί μια υλοποίηση ενός παιχνιδιού εύρεσης χρωμάτων, βασισμένη στην ιδέα "Guess my RGB".
 
 ![RGB-Game](game.png)
