@@ -7,24 +7,6 @@
 ![Texnologies-Efarmogon-Diadiktuou](askisi1.png)
 
 
-ΑΣΚΗΣΗ 3 ΕΡΩΤΗΜΑ 1: JAVASCRIPT
----
-Στον ακόλουθο κώδικα προσθέστε μια ιδιότητα onclick στο κουμπί ώστε να καλείται η συνάρτηση myFunction όταν το πατάμε. [askisi3_question1.html](askisi3_question1.html)
-
-![Texnologies-Efarmogon-Diadiktuou](askisi3_question1.png)
-
-ΑΣΚΗΣΗ 3 ΕΡΩΤΗΜΑ 2: JAVASCRIPT
----
-Στον ακόλουθο κώδικα προσθέστε το χειρισμό ενός συμβάντος onclick με χρήση του DOM, το οποίο να καλεί τη συνάρτηση displayDate(). [askisi3_question2.html](askisi3_question2.html)
-
-![Texnologies-Efarmogon-Diadiktuou](askisi3_question2.png)
-
-ΑΣΚΗΣΗ 3 ΕΡΩΤΗΜΑ 3: JAVASCRIPT
----
-Διορθώστε τον ακόλουθο κώδικα ώστε όταν τοποθετείτε τον κέρσορα στο κείμενο να αλλάξει χρώμα. [askisi3_question3.html](askisi3_question3.html)
-
-![Texnologies-Efarmogon-Diadiktuou](askisi3_question3.png)
-
 ΑΣΚΗΣΗ 4: THREADS (Java Concurrency Control)
 ---
 Υπάρχουν τρία αρχεία: Account.java, AccountThread.java, TwoAccountsThreadDemo.java.
