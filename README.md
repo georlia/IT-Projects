@@ -1,4 +1,4 @@
-# IT-Projects
+# 👩‍🎓IT Projects
 A variety of projects and exercises i did while i studied Informatics and Telecommunications.
 * [Chess PGN Analyzer♟️](https://github.com/georlia/IT-Projects/tree/main/Chess%20PGN%20Analyzer)
 * [Lost Objects App🛍️](https://github.com/georlia/IT-Projects/tree/main/Lost%20Objects%20App)
